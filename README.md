@@ -86,7 +86,7 @@
 ## 📊 Deliveries by Category
 
 Product                | Quantity
-----------------------|----------
+----------------------|----------:
 Basket Mix            | 9
 Interaction           | 12
 Regional Dashboards   | 8
