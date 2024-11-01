@@ -27,17 +27,13 @@
 
 ## 📈 Métricas de Impacto
 
-Desempenho & Entregas
-------------------------
-✨ 30+ soluções empresariais entregues
-
-⚡ 15% de redução no tempo de implantação
-
-🎯 98% de disponibilidade do sistema
-
-📈 30% de melhoria geral no desempenho
-
-🔄 10.000+ transações diárias processadas
+| Indicador | Resultado | Impacto |
+|-----------|-----------|---------|
+| ✨ Soluções Entregues | 30+ | Expansão do portfólio de produtos |
+| ⚡ Otimização | 15% | Redução no tempo de implantação |
+| 🎯 Uptime | 98% | Alta disponibilidade do sistema |
+| 📈 Performance | 30% | Melhoria geral no desempenho |
+| 🔄 Processamento | 10.000+ | Transações diárias processadas |
 
 ## 🚀 Implementações Técnicas
 
