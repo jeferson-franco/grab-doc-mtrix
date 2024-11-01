@@ -28,7 +28,7 @@
 ## 📈 Métricas de Impacto
 
 | Indicador | Resultado | Impacto |
-|-----------|-----------|---------|
+|-----------|-----------:|---------|
 | ✨ Soluções Entregues | 30+ | Expansão do portfólio de produtos |
 | ⚡ Otimização | 15% | Redução no tempo de implantação |
 | 🎯 Uptime | 98% | Alta disponibilidade do sistema |
