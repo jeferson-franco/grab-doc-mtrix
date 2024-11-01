@@ -28,7 +28,7 @@
 ## 📈 Impact Metrics
 
 | Indicator | Result | Impact |
-|-----------|--------|--------|
+|-----------|--------:|--------|
 | ✨ Delivered Solutions | 30+ | Product portfolio expansion |
 | ⚡ Optimization | 15% | Deployment time reduction |
 | 🎯 Uptime | 98% | High system availability |
