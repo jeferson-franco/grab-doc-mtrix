@@ -1,7 +1,7 @@
 # Grab Doc Mtrix
 *Read this in: [English](README.md) | [Português](README.pt-BR.md)*
 
-# Tech Performance Report 2023-2024 
+# Tech Performance Report 2023-2024
 [![Made with React](https://img.shields.io/badge/Made_with-React-blue?logo=react)](https://reactjs.org/)
 [![Python](https://img.shields.io/badge/Python-3.7+-green?logo=python)](https://www.python.org/)
 [![Node](https://img.shields.io/badge/Node-16-success?logo=node.js)](https://nodejs.org/)
@@ -11,26 +11,22 @@
 ## 🛠 Tech Stack
 
 ### Front-end
-```
-• React (Create React App)
-• Node.js 16
-• Microfrontends
-• Single Repository Pattern
-• Reactour (Interactive Tutorial)
-```
+- React (Create React App)
+- Node.js 16
+- Microfrontends
+- Single Repository Pattern
+- Reactour (Interactive Tutorial)
 
 ### Data & Backend
-```
-• PySpark
-• Trino
-• Apache Iceberg
-• SQL
-• Kubemaestro (Pipeline System)
-• PySFTP
-```
+- PySpark
+- Trino
+- Apache Iceberg
+- SQL
+- Kubemaestro (Pipeline System)
+- PySFTP
 
 ## 📈 Impact Metrics
-```
+
 Performance & Deliveries
 ------------------------
 ✨ 30+ enterprise solutions delivered
@@ -38,7 +34,6 @@ Performance & Deliveries
 🎯 98% system uptime
 📈 30% overall performance improvement
 🔄 10,000+ daily transactions processed
-```
 
 ## 🚀 Technical Implementations
 
@@ -47,12 +42,14 @@ Performance & Deliveries
   - Microfrontends implementation
   - Single repository pattern for centralized updates
   - Foundation for future shared design system
+
 - Internationalization (i18n)
   - Implemented in Interaction, Basket-Mix, and Comodato
   - Legacy components refactoring
   - Multi-language support in Create React App
 
 ### Pipeline & Integrations
+
 - Pioneer SFTP integration solution
   - Innovative implementation using PySFTP
   - Company's first SFTP solution
@@ -66,6 +63,7 @@ Performance & Deliveries
   - Custom TXT/CSV generation
 
 ### User Experience & Analytics
+
 - Interactive tutorial in core products
   - Implementation with Reactour
   - Applied to Basket-Mix and Interaction
@@ -86,13 +84,12 @@ Performance & Deliveries
 - Automated exports
 
 ## 📊 Deliveries by Category
-```
+
 Product                | Quantity
 ----------------------|----------
 Basket Mix            | 9
 Interaction           | 12
 Regional Dashboards   | 8
-```
 
 ## 💡 Innovative Solutions
 
@@ -132,6 +129,8 @@ Feel free to reach out to me:
 ---
 
 <div align="center">
+<em>This document is continuously updated to reflect new developments and achievements.</em>
+</div>
 
 *This document is continuously updated to reflect new developments and achievements.*
 
