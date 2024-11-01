@@ -30,9 +30,13 @@
 Desempenho & Entregas
 ------------------------
 ✨ 30+ soluções empresariais entregues
+
 ⚡ 15% de redução no tempo de implantação
+
 🎯 98% de disponibilidade do sistema
+
 📈 30% de melhoria geral no desempenho
+
 🔄 10.000+ transações diárias processadas
 
 ## 🚀 Implementações Técnicas
