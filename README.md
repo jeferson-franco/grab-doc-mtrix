@@ -30,9 +30,13 @@
 Performance & Deliveries
 ------------------------
 ✨ 30+ enterprise solutions delivered
+
 ⚡ 15% deployment time reduction
+
 🎯 98% system uptime
+
 📈 30% overall performance improvement
+
 🔄 10,000+ daily transactions processed
 
 ## 🚀 Technical Implementations
