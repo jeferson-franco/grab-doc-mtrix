@@ -86,7 +86,7 @@
 ## 📊 Entregas por Categoria
 
 Produto                | Quantidade
-----------------------|----------
+----------------------|----------:
 Basket Mix            | 9
 Interaction           | 12
 Dashboards Regionais  | 8
